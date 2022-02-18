@@ -3867,9 +3867,9 @@
                                     {},
                                     null === (a = Bo) || void 0 === a ? void 0 : a[c[0].address],
                                     (((i = {})[c[1].address] = Object(Mi.c)(
-                                        "0xF8725F041864F9C3253A241d576ABBb582a37AbE",
+                                        "0x29f25D57bAc9a8E4b0612474103bC51abaE32e91",
                                         Object(_i.a)(["bytes"], [Object(_i.b)(["address", "address"], [c[0].address, c[1].address])]),
-                                        "0x5987a3946e08b66981b08f576b2c4a6ed7ed7b9fa229d62709c02bfd4fabbf4c"
+                                        "0x2e8d8b763adcfe221de8461274b1c7e4ff237b8e1697018ffb22aec95a85e268"
                                     )),
                                     i)
                                 )),
@@ -4213,7 +4213,7 @@
                         e
                     );
                 })(),
-                Ko = (((Wo = {})[gi.MAINNET] = { "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A": 9 }), "0x7e967993cB158dCb62E5fc42422c300A845f9fB2"),
+                Ko = (((Wo = {})[gi.MAINNET] = { "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A": 9 }), "0xE9e6Ed24E1Aad6405e0Da8eC16f355f16d3e9C36"),
                 Jo = new Co(gi.MAINNET, "0x6009d8bfd0f8fa504d38f4097cee019fbb2e60b7", 9, "UTX", "ULTRA-X"),
                 $o = new Co(gi.MAINNET, "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c", 18, "WBNB", "Wrapped BNB"),
                 ec = new Co(gi.MAINNET, "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3", 18, "DAI", "Dai Stablecoin"),
@@ -8286,7 +8286,7 @@
                         console.info('Failed to parse input amount: "'.concat(e, '"'), r);
                     }
             }
-            var Em = ["0xF8725F041864F9C3253A241d576ABBb582a37AbE", "0x7e967993cB158dCb62E5fc42422c300A845f9fB2", "0x7e967993cB158dCb62E5fc42422c300A845f9fB2"];
+            var Em = ["0x29f25D57bAc9a8E4b0612474103bC51abaE32e91", "0xE9e6Ed24E1Aad6405e0Da8eC16f355f16d3e9C36", "0xE9e6Ed24E1Aad6405e0Da8eC16f355f16d3e9C36"];
             function Im(e, n) {
                 return (
                     e.route.path.some(function (e) {
